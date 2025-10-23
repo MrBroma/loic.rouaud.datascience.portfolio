@@ -32,6 +32,21 @@
 
 ---
 
+## Research Experience
+**Junior Biomedical Researcher** – GIGA-Cancer, ULiège, Belgium (_Sept 2019 – May 2024_)  
+- Conducted **RNA-seq analysis** using R/Bioconductor and Seurat for spatial transcriptomics  
+- Automated **image analysis workflows** with QuPath; applied deep learning models to immunofluorescence data  
+- Published as **first and co-author** in peer-reviewed journals; presented work at international conferences  
+- Collaborated with **bioinformatics, clinical, and engineering teams** on translational research projects  
+
+**Laboratory Intern** – GEC, GIGA-MBD, ULiège, Belgium (_Apr – Jun 2018, Jan – Aug 2019_)  
+- Gained autonomy in **experimental design and execution**  
+- Trained in advanced **analytical techniques and scientific methodology**  
+- Contributed to **data analysis, interpretation, and scientific writing**  
+- Built strong proficiency in **lab techniques and computational tools**  
+
+---
+
 ## Projects
 
 ### 🦷 Bruxism Wearable – Hackathon Winner
@@ -70,9 +85,9 @@ Developed a scalable **PySpark-based anomaly detection system**, processing mill
 ---
 
 ## Talks & Conferences
-- Poster: *Tregs independent GARP functions in the TME* – **Lymphatic Forum** (Banff, 2023)  
-- Short talk: *Tregs independent GARP functions in the TME* – **French Society of Angiogenesis** (Nantes, 2022)  
 - Hackathons: **Hacking Health Liège 2025** (Hardware Innovation Prize), **Citizen of Wallonia 2022**  
+- Poster: *Tregs independent GARP functions in the TME* – **Lymphatic Forum** (Banff, Canade, 2023)  
+- Short talk: *Tregs independent GARP functions in the TME* – **French Society of Angiogenesis** (Nantes, France, 2022)  
 
 ---
 
