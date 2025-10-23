@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/style.css">
+
 # Biomedical Data Scientist
 
 #### Technical Skills: Python, SQL, PySpark, TensorFlow, PyTorch, scikit-learn, Docker, Airflow, GCP, Azure
