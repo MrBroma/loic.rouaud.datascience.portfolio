@@ -1,7 +1,9 @@
-/* Style the sidebar profile picture */
+/* Sidebar profile picture */
 .sidebar img {
-  border-radius: 50%;   /* crop round */
-  object-fit: cover;    /* avoid distortion */
-  width: 160px;         /* adjust size */
+  border-radius: 50%;   /* makes it round */
+  object-fit: cover;    /* keeps aspect ratio */
+  width: 160px;         /* adjust as needed */
   height: 160px;
+  margin: 0 auto;
+  display: block;
 }
