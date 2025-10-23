@@ -33,84 +33,39 @@
 ---
 
 ## Projects
-### ⚽ [Football Match Prediction Pipeline]()
-End-to-end pipeline using **Airflow + PostgreSQL + Streamlit** for scraping match stats, training ML models, and deploying real-time predictions.  
-<!-- Image placeholder (ajouter plus tard)
-![Football Pipeline](/assets/img/football_pipeline.jpg)
--->
 
 ### 🦷 Bruxism Wearable – Hackathon Winner
-Developed a biosignal-processing device to detect and diagnose bruxism.  
-🏆 Awarded **Hardware Innovation Prize (Voxdale)** at *Hacking Health Liège 2025*.  
-<!-- Image placeholder (ajouter plus tard)
-![Bruxism Wearable](/assets/img/bruxism_device.jpg)
--->
-
-### 📊 Orange Belgium Data Quality
-Implemented a scalable **anomaly detection** system with **PySpark**, processing millions of telecom records.  
-<!-- Image placeholder (ajouter plus tard)
-![Orange Data Quality](/assets/img/ob_anomaly.jpg)
--->
-
-### 📰 RTBF Article Analyzer
-**Repo:** https://github.com/MrBroma/becode-capstone-challenge  
-Built an **NLP** pipeline using **BERT** for topic modeling & sentiment analysis.  
-Included **NER**, temporal trend analysis, and interactive dashboards.  
-<!-- Image placeholder (ajouter plus tard)
-![RTBF Analyzer](/assets/img/rtbf_nlp.jpg)
--->
-
-### 🏠 House Price Prediction Engine
-**Repo:** https://github.com/MrBroma/Wiwino_project  
-ML solution with **XGBoost + SHAP** for interpretability. Deployed as a **Streamlit app**.  
-<!-- Image placeholder (ajouter plus tard)
-![House Price](/assets/img/house_price.jpg)
--->
-
-
-
+Developed a biosignal-processing device to detect and diagnose bruxism. Awarded the **Hardware Innovation Prize (Voxdale)** at *Hacking Health Liège 2025*.  
 
 ---
 
 ### 📰 [RTBF Article Analyzer](https://github.com/MrBroma/becode-capstone-challenge)
-Built an **NLP** pipeline using **BERT** for topic modeling & sentiment analysis.  
-Included **NER**, temporal trend analysis, and interactive dashboards.  
-
-
-### ⚽ [Football Match Prediction Pipeline]()
-End-to-end pipeline using **Airflow + PostgreSQL + Streamlit** for scraping match stats, training ML models, and deploying real-time predictions. 
+Built a **BERT-based NLP pipeline** for topic modeling and sentiment analysis on media articles, including named entity recognition, temporal trend analysis, and interactive dashboards.  
 
 ---
 
-### [ImmoEliza_ML_app](https://github.com/MrBroma/ImmoEliza_ML_app)
-**Streamlit web app** for real estate price prediction  
-ML pipeline using **XGBoost** with feature engineering, training, and evaluation  
-Implemented **SHAP** for model interpretability  
-User-friendly interface to test housing scenarios interactively  
+### 🏠 [House Price Prediction Engine](https://github.com/MrBroma/ImmoEliza_ML_app)
+Created a **Streamlit web app** to predict real estate prices with an **XGBoost pipeline**, including feature engineering, evaluation, and SHAP-based interpretability.  
 
 ---
 
-### [ImmoEliza-regression-project](https://github.com/MrBroma/ImmoEliza-regression-project)
-End-to-end **regression pipeline** on real estate datasets  
-Data preprocessing, feature engineering, model evaluation  
-Comparison of regression algorithms (Linear Regression, XGBoost, etc.)  
-Documented through clear Jupyter notebooks  
+### 🍷 [Wiwino Project](https://github.com/MrBroma/Wiwino_project)
+Applied machine learning to **wine market data**, performing exploratory analysis, regression modeling, clustering for market segmentation, and insight visualization.  
 
 ---
 
-### [Wiwino_project](https://github.com/MrBroma/Wiwino_project)
-ML project applied to **wine market data**  
-Performed **EDA** on wine quality/price datasets  
-Built regression models and clustering for market segmentation  
-Delivered insights with visualizations  
+### 🎮 [Hangman](https://github.com/MrBroma/Hangman)
+Implemented the classic **Hangman game** in Python using OOP principles, with unit tests and CI setup to showcase clean coding and reproducible project structure.  
 
 ---
 
-### [Hangman](https://github.com/MrBroma/Hangman)
-Classic **Hangman game** implemented in Python  
-Object-Oriented Programming (OOP) structure  
-Includes unit tests and CI setup  
-Demonstrates clean coding practices and project structuring  
+### ⚽ Football Match Prediction Pipeline
+Built an end-to-end pipeline with **Airflow + PostgreSQL + Streamlit** to scrape match statistics, train machine learning models, and deploy real-time predictions.  
+
+---
+
+### 📊 Orange Belgium Data Quality
+Developed a scalable **PySpark-based anomaly detection system**, processing millions of telecom records to identify errors and ensure data quality at scale.  
 
 ---
 
