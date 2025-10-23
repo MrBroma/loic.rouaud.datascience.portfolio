@@ -1,14 +1,14 @@
 # Biomedical Data Scientist
 
-#### Technical Skills: Python, SQL, PySpark, TensorFlow, PyTorch, scikit-learn, XGBoost, BERT, Docker, Airflow, GCP, Azure
+#### Technical Skills: Python, SQL, PySpark, TensorFlow, PyTorch, scikit-learn, Docker, Airflow, GCP, Azure
 
 ---
 
 ## Education
+- **Data Science & ML Engineering Trainee** | BeCode, Liège (_2024_)  
 - **Ph.D., Biomedical Sciences (Cancer & Immunology)** | ULiège, Belgium (_2019 – 2024_)  
 - **M.Sc., Biomedical Sciences** | ULiège, Belgium (_2016 – 2019_)  
 - **B.Sc./M.Sc., Biology** | Sorbonne University, France (_2006 – 2013_)  
-- **Data Science & ML Engineering Trainee** | BeCode, Liège (_2024_)  
 
 ---
 
@@ -33,7 +33,7 @@
 ---
 
 ## Projects
-### ⚽ Football Match Prediction Pipeline
+### ⚽ [Football Match Prediction Pipeline]()
 End-to-end pipeline using **Airflow + PostgreSQL + Streamlit** for scraping match stats, training ML models, and deploying real-time predictions.  
 <!-- Image placeholder (ajouter plus tard)
 ![Football Pipeline](/assets/img/football_pipeline.jpg)
@@ -67,6 +67,51 @@ ML solution with **XGBoost + SHAP** for interpretability. Deployed as a **Stream
 ![House Price](/assets/img/house_price.jpg)
 -->
 
+
+
+
+---
+
+### 📰 [RTBF Article Analyzer](https://github.com/MrBroma/becode-capstone-challenge)
+Built an **NLP** pipeline using **BERT** for topic modeling & sentiment analysis.  
+Included **NER**, temporal trend analysis, and interactive dashboards.  
+
+
+### ⚽ [Football Match Prediction Pipeline]()
+End-to-end pipeline using **Airflow + PostgreSQL + Streamlit** for scraping match stats, training ML models, and deploying real-time predictions. 
+
+---
+
+### [ImmoEliza_ML_app](https://github.com/MrBroma/ImmoEliza_ML_app)
+**Streamlit web app** for real estate price prediction  
+ML pipeline using **XGBoost** with feature engineering, training, and evaluation  
+Implemented **SHAP** for model interpretability  
+User-friendly interface to test housing scenarios interactively  
+
+---
+
+### [ImmoEliza-regression-project](https://github.com/MrBroma/ImmoEliza-regression-project)
+End-to-end **regression pipeline** on real estate datasets  
+Data preprocessing, feature engineering, model evaluation  
+Comparison of regression algorithms (Linear Regression, XGBoost, etc.)  
+Documented through clear Jupyter notebooks  
+
+---
+
+### [Wiwino_project](https://github.com/MrBroma/Wiwino_project)
+ML project applied to **wine market data**  
+Performed **EDA** on wine quality/price datasets  
+Built regression models and clustering for market segmentation  
+Delivered insights with visualizations  
+
+---
+
+### [Hangman](https://github.com/MrBroma/Hangman)
+Classic **Hangman game** implemented in Python  
+Object-Oriented Programming (OOP) structure  
+Includes unit tests and CI setup  
+Demonstrates clean coding practices and project structuring  
+
 ---
 
 ## Talks & Conferences
@@ -81,7 +126,7 @@ ML solution with **XGBoost + SHAP** for interpretability. Deployed as a **Stream
 2. Pirson, S., **Rouaud, L.** et al. (2025). *AXL promotes lymphangiogenesis via VEGF-C/AKT pathway.* **Cellular and Molecular Life Sciences**. [DOI](https://doi.org/10.1007/s00018-024-05542-3)  
 3. Thesis: **Tregs independent GARP functions in the tumor microenvironment (2024)**. [Link](https://hdl.handle.net/2268/318419)  
 
-➡️ Full list on **Google Scholar** (add link when ready)
+➡️ Full list on **Google Scholar**. [Link](https://scholar.google.com/citations?user=Q4cMnWMAAAAJ&hl=en)
 
 ---
 
