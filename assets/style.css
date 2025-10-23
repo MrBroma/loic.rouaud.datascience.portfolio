@@ -1,6 +1,7 @@
-img.profile-pic {
-  border-radius: 50%;
-  object-fit: cover;
-  width: 200px;
-  height: 200px;
+/* Style the sidebar profile picture */
+.sidebar img {
+  border-radius: 50%;   /* crop round */
+  object-fit: cover;    /* avoid distortion */
+  width: 160px;         /* adjust size */
+  height: 160px;
 }
