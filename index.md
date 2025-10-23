@@ -85,8 +85,8 @@ Developed a scalable **PySpark-based anomaly detection system**, processing mill
 ---
 
 ## Talks & Conferences
-- Poster: *Tregs independent GARP functions in the TME* – **Lymphatic Forum** (Banff, 2023)  
-- Short talk: *Tregs independent GARP functions in the TME* – **French Society of Angiogenesis** (Nantes, 2022)  
+- Poster: *Tregs independent GARP functions in the TME* – **Lymphatic Forum** (Banff, Canada, 2023)  
+- Short talk: *Tregs independent GARP functions in the TME* – **French Society of Angiogenesis** (Nantes, France, 2022)  
 - Hackathons: **Hacking Health Liège 2025** (Hardware Innovation Prize), **Citizen of Wallonia 2022**  
 
 ---
