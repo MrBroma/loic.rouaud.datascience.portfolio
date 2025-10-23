@@ -6,12 +6,22 @@ theme: jekyll-theme-minimal
 markdown: kramdown
 
 # Personalization
-email: loic.rouaud@example.com
+author: "Loïc Rouaud"
+email: loic.rouaud@gmail.com
 github_username: loicrouaud
 
 # Social links
-linkedin_username: loicrouaud
+linkedin_username: loic-rouaud
 twitter_username: loicrouaud
+
+# Additional professional profiles
+leetcode_username: mrbroma
+hackerrank_username: loic_rouaud
+
+# SEO and metadata
+url: "https://loicrouaud.github.io"
+baseurl: ""
+google_scholar: "https://scholar.google.com/citations?user=Q4cMnWMAAAAJ&hl=en"
 
 # Build settings
 plugins:
@@ -31,6 +41,13 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - README.md
+  - LICENSE
 
 # SEO Tag
 title-separator: "|"
+lang: en_US
+
+# Professional information
+tagline: "Biomedical Data Scientist | ML Engineer | Bioinformatics Specialist"
+keywords: "data science, machine learning, bioinformatics, NLP, MLOps, Python, RNA-seq, biomedical research"
