@@ -5,6 +5,32 @@ show_downloads: true
 theme: jekyll-theme-minimal
 markdown: kramdown
 
-# Custom CSS
+# Personalization
+email: loic.rouaud@example.com
+github_username: loicrouaud
+
+# Social links
+linkedin_username: loicrouaud
+twitter_username: loicrouaud
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Includes
 include:
   - assets
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# SEO Tag
+title-separator: "|"
