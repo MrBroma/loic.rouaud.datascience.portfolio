@@ -4,3 +4,7 @@ description: "Portfolio: Machine Learning • Bioinformatics • NLP • MLOps"
 show_downloads: true
 theme: jekyll-theme-minimal
 markdown: kramdown
+
+# Custom CSS
+include:
+  - assets
