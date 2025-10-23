@@ -1,5 +1,7 @@
 ---
 layout: default
+title: "Loïc Rouaud, PhD - Biomedical Data Scientist"
+description: "Portfolio showcasing expertise in Machine Learning, Bioinformatics, NLP, and MLOps"
 ---
 
 <link rel="stylesheet" href="/assets/style.css">
@@ -11,6 +13,7 @@ layout: default
 ---
 
 ## Education
+
 - **Data Science & ML Engineering Trainee** | BeCode, Liège (_2024_)  
 - **Ph.D., Biomedical Sciences (Cancer & Immunology)** | ULiège, Belgium (_2019 – 2024_)  
 - **M.Sc., Biomedical Sciences** | ULiège, Belgium (_2016 – 2019_)  
@@ -19,6 +22,7 @@ layout: default
 ---
 
 ## Work Experience
+
 **Data Scientist @ Comunicare (Liège, Jul 2025 – Present)**  
 - Designed and applied ML workflows to **bulk RNA-seq** datasets for biomarker discovery in oncology & rare diseases  
 - Built reproducible pipelines for **preprocessing, QC, and statistical analysis**  
@@ -39,6 +43,7 @@ layout: default
 ---
 
 ## Research Experience
+
 **Junior Biomedical Researcher** – GIGA-Cancer, ULiège, Belgium (_Sept 2019 – May 2024_)  
 - Conducted **RNA-seq analysis** using R/Bioconductor and Seurat for spatial transcriptomics  
 - Automated **image analysis workflows** with QuPath; applied deep learning models to immunofluorescence data  
@@ -91,13 +96,15 @@ Developed a scalable **PySpark-based anomaly detection system**, processing mill
 ---
 
 ## Talks & Conferences
+
 - Hackathons: **Hacking Health Liège 2025** (Hardware Innovation Prize), **Citizen of Wallonia 2022**  
-- Poster: *Tregs independent GARP functions in the TME* – **Lymphatic Forum** (Banff, Canade, 2023)  
+- Poster: *Tregs independent GARP functions in the TME* – **Lymphatic Forum** (Banff, Canada, 2023)  
 - Short talk: *Tregs independent GARP functions in the TME* – **French Society of Angiogenesis** (Nantes, France, 2022)  
 
 ---
 
 ## Publications (Selected)
+
 1. **Rouaud, L.** et al. (2023). *Spatial distribution of non-immune cells expressing GARP in metastatic lymph nodes.* **Cancers**. [DOI](https://doi.org/10.3390/cancers15235621)  
 2. Pirson, S., **Rouaud, L.** et al. (2025). *AXL promotes lymphangiogenesis via VEGF-C/AKT pathway.* **Cellular and Molecular Life Sciences**. [DOI](https://doi.org/10.1007/s00018-024-05542-3)  
 3. Thesis: **Tregs independent GARP functions in the tumor microenvironment (2024)**. [Link](https://hdl.handle.net/2268/318419)  
@@ -107,14 +114,16 @@ Developed a scalable **PySpark-based anomaly detection system**, processing mill
 ---
 
 ## Awards
+
 - 🏆 **Hardware Innovation Prize (Voxdale)** – *Hacking Health Liège 2025*  
 - 🎓 **FNRS Télévie Fellowships** – *2019–2023*  
 
 ---
 
 ## Contact
+
 - 📧 Email: **loic.rouaud@gmail.com**  
-- 💼 LinkedIn: https://www.linkedin.com/in/loic-rouaud/  
-- 💻 GitHub: https://github.com/MrBroma  
-- 🧮 LeetCode: https://www.leetcode.com/mrbroma  
-- 🏅 HackerRank: https://www.hackerrank.com/@loic_rouaud
+- 💼 LinkedIn: [linkedin.com/in/loic-rouaud](https://www.linkedin.com/in/loic-rouaud/)  
+- 💻 GitHub: [github.com/MrBroma](https://github.com/MrBroma)  
+- 🧮 LeetCode: [leetcode.com/mrbroma](https://www.leetcode.com/mrbroma)  
+- 🏅 HackerRank: [hackerrank.com/@loic_rouaud](https://www.hackerrank.com/@loic_rouaud)
