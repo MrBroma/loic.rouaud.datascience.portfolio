@@ -1,6 +1,6 @@
-title: Loïc Rouaud
+title: "Loïc Rouaud, PhD — Biomedical Data Scientist"
 #logo: /assets/img/headshot_circle.png
-description: "Portfolio Data Scientist – IA, Data Science, Biomedical Science"
+description: "Portfolio: Machine Learning • Bioinformatics • NLP • MLOps"
 show_downloads: true
 theme: jekyll-theme-minimal
-lang: en
+markdown: kramdown
